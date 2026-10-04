@@ -1,0 +1,6 @@
+{
+  "name": "OMNI — AI Business Operating System",
+  "description": "Tell OMNI your goal. OMNI builds the path, executes the work, and helps grow your business. Founded by Caleb Akankwasa.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
